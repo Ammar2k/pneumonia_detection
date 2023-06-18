@@ -1,0 +1,6 @@
+models/
+app/
+.ipynb_checkpoints
+__pycache__
+chest_xray/
+.jpg
